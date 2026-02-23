@@ -1,0 +1,12 @@
+../Core/Src/move.c:15:9:AutoMode_motor_init	8	static
+../Core/Src/move.c:23:9:AutoMode_motor_go	8	static
+../Core/Src/move.c:31:9:AutoMode_motor_back	8	static
+../Core/Src/move.c:39:9:AutoMode_motor_right	8	static
+../Core/Src/move.c:50:9:AutoMode_motor_left	8	static
+../Core/Src/move.c:60:9:AutoMode_motor_stop	8	static
+../Core/Src/move.c:72:9:motor_init	8	static
+../Core/Src/move.c:80:9:motor_go	8	static
+../Core/Src/move.c:88:9:motor_back	8	static
+../Core/Src/move.c:96:9:motor_right	8	static
+../Core/Src/move.c:107:9:motor_left	8	static
+../Core/Src/move.c:117:9:motor_stop	8	static

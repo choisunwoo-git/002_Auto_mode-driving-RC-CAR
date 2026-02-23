@@ -1,0 +1,3 @@
+../Core/Src/Car light.c:7:6:Car_Light_Init	8	static
+../Core/Src/Car light.c:12:6:Car_Light_On	8	static
+../Core/Src/Car light.c:17:6:Car_Light_Off	8	static
